@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://anandr07.github.io
+> https://saniyas2.github.io/
  
 [![GitHub stars](https://img.shields.io/github/stars/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/anandr07/anandr07.github.io?style=social)](https://github.com/anandr07/anandr07.github.io/network/members)
@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://anandr07.github.io" target="_blank"><img src="examples/preview.PNG">
+    <a href="https://saniyas2.github.io/" target="_blank"><img src="examples/preview.PNG">
   </a>
   </kbd>
 </p>
